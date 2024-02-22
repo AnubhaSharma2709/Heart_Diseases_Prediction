@@ -55,17 +55,6 @@ The data is split into training and test sets, and various Machine Learning mode
 
 Evaluation metrics will be used to assess the performance of each model, including accuracy, precision, recall, and F1-score.
 
----
-
-This README provides an overview of the project for predicting heart diseases using machine learning. For more detailed information, code implementation, and results, please refer to the project documentation and notebooks.
-
-Feel free to explore the code and data to gain insights into the world of heart disease prediction using data and machine learning.
-
-## Project Author
-[Your Name]
-
 ## Acknowledgments
 - [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/heart+Disease)
 - [Kaggle](https://www.kaggle.com/datasets/sumaiyatasmeem/heart-disease-classification-dataset)
-
-Enjoy your journey into data science and machine learning! 🚀
